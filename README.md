@@ -1,7 +1,7 @@
 # JEFFREY
-Dog companion Jeffrey app developed using Code.org's App Lab.
-Features two video game trivia minigames on Titanfall and Valorant, and well-being tips when petting Jeffrey the dog.
-Developed August 2021 - September 2021.
+- Dog companion Jeffrey app developed using Code.org's App Lab.
+- Features two video game trivia minigames on Titanfall and Valorant, and well-being tips when petting Jeffrey the dog.
+- Developed August 2021 - September 2021.
 
 # Installation
 [.zip file](https://github.com/PlainOlSoapBar/JEFFREY/archive/refs/heads/main.zip)
